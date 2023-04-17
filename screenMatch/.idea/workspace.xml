@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e891b80b-0df3-4949-9973-b1c3d15842e9" name="Changes" comment="Continuando projeto">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+    <list default="true" id="e891b80b-0df3-4949-9973-b1c3d15842e9" name="Changes" comment="Continuando o curso de POO">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Recomendacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +47,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Leonardo/eclipse-workspace/primeiroProjetoJava/screenMatch/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.br.com.alura.minhasmusicas.principal.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.modelos.Principal" />
       <module name="screenMatch" />
@@ -50,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="br.com.alura.minhasmusicas.principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.minhasmusicas.principal.Principal" />
+      <module name="screenMatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.minhasmusicas.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.alura.minhasmusicas.principal.Principal" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
@@ -79,11 +98,19 @@
       <option name="project" value="LOCAL" />
       <updated>1681418958980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Continuando o curso de POO">
+      <created>1681505318669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681505318669</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Continuando projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Continuando projeto" />
+    <MESSAGE value="Continuando o curso de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuando o curso de POO" />
   </component>
 </project>
