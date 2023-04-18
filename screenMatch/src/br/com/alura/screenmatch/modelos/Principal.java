@@ -4,11 +4,11 @@ import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.alura.screenmatch.calculos.Recomendacao;
 import br.com.alura.screenmatch.modelos.Filme;
 
+import java.util.ArrayList;
+
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme();
-        meuFilme.setNome("O poderoso Chefão");
-        meuFilme.setAnoDeLancamento(1970);
+        Filme meuFilme = new Filme("O poderoso Chefão", 1970);
         meuFilme.setDuracaoEmMinuto(180);
         System.out.println("Duração do Filme: " +  meuFilme.getDuracaoEmMinuto());
 
@@ -19,9 +19,7 @@ public class Principal {
         System.out.println(meuFilme.getTotalDeAvaliacao());
         System.out.println(meuFilme.pegaMedia());
 
-        Serie lost = new Serie();
-        lost.setNome("Lost");
-        lost.setAnoDeLancamento(2018);
+        Serie lost = new Serie("Lost", 2018);
         lost.setTemporadas(7);
         lost.setAtiva(true);
         lost.setEpisodiosPorTemporada(5);
@@ -29,9 +27,7 @@ public class Principal {
         lost.exibiFichaTecnica();
         System.out.println("Duração para Maratonar Lost: " +  lost.getDuracaoEmMinuto());
 
-        Filme outroFilme = new Filme();
-        outroFilme.setNome("Velozes Furiosos");
-        outroFilme.setAnoDeLancamento(2023);
+        Filme outroFilme = new Filme("Velozes Furiosos", 2023);
         outroFilme.setDuracaoEmMinuto(100);
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
@@ -48,5 +44,18 @@ public class Principal {
         episodio.setSerie(lost);
         episodio.setTotalVisualiza(300);
         filtro.filtra(episodio);
+
+        Filme filmePaulo = new Filme("Dogville", 2003);
+        filmePaulo.setDuracaoEmMinuto(200);
+        filmePaulo.avalia(10);
+
+        ArrayList<Filme> filmes = new ArrayList<>();
+        filmes.add(filmePaulo);
+        filmes.add(meuFilme);
+        filmes.add(outroFilme);
+        System.out.println("Tamanho da Lista: " + filmes.size());
+        System.out.println(filmes);
+        System.out.println("Primeiro Filme: " + filmes.get(0).toString());
+
     }
 }

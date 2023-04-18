@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e891b80b-0df3-4949-9973-b1c3d15842e9" name="Changes" comment="Continuando o curso de POO">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/MinhasPreferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelo/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Recomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Leonardo/eclipse-workspace/primeiroProjetoJava/screenMatch/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.br.com.alura.minhasmusicas.principal.Principal">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.modelos.Principal" />
       <module name="screenMatch" />
@@ -70,8 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.br.com.alura.minhasmusicas.principal.Principal" />
         <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.br.com.alura.minhasmusicas.principal.Principal" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681505318669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Continuando o curso de POO">
+      <created>1681762177232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681762177233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Continuando o curso de POO">
+      <created>1681762214995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681762214995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
