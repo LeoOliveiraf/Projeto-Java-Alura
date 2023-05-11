@@ -2,6 +2,8 @@ package tratamento;
 
 public class Conta {
 
-    void deposita(){}
+    void deposita() throws MinhaExecao{
+
+    }
 
 }
