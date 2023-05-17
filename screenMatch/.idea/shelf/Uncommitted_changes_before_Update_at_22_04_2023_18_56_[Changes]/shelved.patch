@@ -1,0 +1,166 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 0a97ec615f2414ebd236d13c3f6665fb7b640a3c)
++++ /dev/null	(revision 0a97ec615f2414ebd236d13c3f6665fb7b640a3c)
+@@ -1,158 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="e891b80b-0df3-4949-9973-b1c3d15842e9" name="Changes" comment="Continuando o curso de POO">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-  </component>
+-  <component name="ProjectId" id="2OKVfhJ0uquisU7vTSL8MdgNnQp" />
+-  <component name="ProjectLevelVcsManager">
+-    <OptionsSetting value="false" id="Update" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Leonardo/eclipse-workspace/primeiroProjetoJava/screenMatch/src/Main.java&quot;
+-  }
+-}</component>
+-  <component name="RunManager" selected="Application.PrincipalComListas">
+-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.Principal" />
+-      <module name="screenMatch" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComListas" />
+-      <module name="screenMatch" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="br.com.alura.minhasmusicas.principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="br.com.alura.minhasmusicas.principal.Principal" />
+-      <module name="screenMatch" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="br.com.alura.minhasmusicas.principal.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Application.PrincipalComListas" />
+-        <item itemvalue="Application.Principal" />
+-        <item itemvalue="Application.br.com.alura.minhasmusicas.principal.Principal" />
+-      </list>
+-    </recent_temporary>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="e891b80b-0df3-4949-9973-b1c3d15842e9" name="Changes" comment="" />
+-      <created>1681309368196</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1681309368196</updated>
+-    </task>
+-    <task id="LOCAL-00001" summary="Continuando projeto">
+-      <created>1681418677919</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681418677919</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="Continuando projeto">
+-      <created>1681418958980</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681418958980</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Continuando o curso de POO">
+-      <created>1681505318669</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681505318669</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Continuando o curso de POO">
+-      <created>1681762177232</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681762177233</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Continuando o curso de POO">
+-      <created>1681762214995</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681762214995</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="Continuando o curso de POO">
+-      <created>1681850921074</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681850921074</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Continuando o curso de POO">
+-      <created>1681850930283</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681850930283</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="Continuando o curso de POO">
+-      <created>1681932472319</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681932472319</updated>
+-    </task>
+-    <option name="localTasksCounter" value="9" />
+-    <servers />
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Continuando projeto" />
+-    <MESSAGE value="Continuando o curso de POO" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Continuando o curso de POO" />
+-  </component>
+-</project>
+\ No newline at end of file
